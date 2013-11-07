@@ -1,6 +1,6 @@
 # GithubChecker
 
-check opened PR
+check open PRs
 
 # Usage
 
